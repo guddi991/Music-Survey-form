@@ -1,0 +1,87 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+ 
+}
+#survey-form{
+  background-color: #281E5D;
+  width: 900px;
+  margin: 0 auto;
+  color: white;
+}
+.row-tab{
+  display:block;
+  padding-top: 20px;
+ 
+}
+.label-music{
+  display:inline-block;
+  width: 40%;
+  text-align: right;
+  font-size: 30px;
+  font-style: italic;
+ 
+}
+.input-music{
+  display:inline-block;
+  text-align: left;
+  width: 48%;
+  
+}
+.select-input{
+  display:inline-block;
+  text-align: left;
+  width: 48%;
+  font-size: 30px;
+  font-style: italic;
+ 
+}
+.label-select{
+  display:inline-block;
+  width: 40%;
+  text-align: right;
+  font-size: 30px;
+  font-style: italic;
+  
+}
+.labels-radio{
+  display:inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+  font-size: 30px;
+  font-style: italic;
+  
+}
+.input-radio{
+  display:inline-block;
+  text-align: left;
+  width: 48%;
+  font-size: 20px;
+  font-style: italic;
+  
+}
+.checkbox-labels{
+  display:inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+  font-size: 30px;
+  font-style: italic; 
+  
+}
+.checkbox-input{
+  display:inline-block;
+  text-align: left;
+  width: 48%;
+  font-size: 20px;
+  font-style: italic;
+  
+}
+

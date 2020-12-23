@@ -1,6 +1,8 @@
 <!DOCTYPE html>
   <body>
+  <head>
   <link rel="stylesheet"type="text/css" href="survey.css">
+  </head>
   <h1 >Music Survey form</h1>
   <br></br>
   <form id="survey-form">
